@@ -3,6 +3,7 @@
 
 This project is an implementation of an Online Voting System using C programming language. It allows users to register as voters, cast their votes, view the list of candidates, display the winner, and check the votes secured by each candidate. Additionally, it supports voter deregistration.
 
+
 ## Features:
 
 * Registration: Users can register as voters by providing their name, age, and Aadhaar number. If the user's age is 18 or above, they are eligible for registration. Each registered voter is assigned a unique Voter ID.
@@ -24,7 +25,6 @@ This project is an implementation of an Online Voting System using C programming
 
 ## Flow chart
 
-![diagram1](https://github.com/mounishreddy27/Online-Voting-System-using-C-language/assets/110010634/086c9e72-036a-41d6-a1d2-07f2fbdec81b)
+![diagram1](https://github.com/mounishreddy27/Online-Voting-System-using-C-language/assets/110010634/0148e3d7-ce39-4007-86d9-f2c16bab304f)
 
-![diagram2](https://github.com/mounishreddy27/Online-Voting-System-using-C-language/assets/110010634/980e00c0-3d22-498a-9154-e62f2a56523c)
-
+![diagram2](https://github.com/mounishreddy27/Online-Voting-System-using-C-language/assets/110010634/f83eb9ad-e163-470b-bb0b-44947c7a1a31)
